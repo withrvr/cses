@@ -1,3 +1,14 @@
+# solution
+cses.java
+solution.java
+Template.java
+
+# temp files
+test*
+foobar*
+
+# --------------- before only -----------------
+
 # Compiled class file
 *.class
 
