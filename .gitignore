@@ -1,7 +1,22 @@
 # solution
-cses.java
-solution.java
-Template.java
+# cses
+# solution
+# Template
+# temp
+
+
+.vscode
+
+*.py
+
+# java
+
+*.java
+
+# cpp
+
+*.cpp
+*.exe
 
 # temp files
 test*
